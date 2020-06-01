@@ -1,0 +1,241 @@
+# Translation of Plugins - Easy WP SMTP - Development (trunk) in Greek
+# This file is distributed under the same license as the Plugins - Easy WP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-13 04:13:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Easy WP SMTP - Development (trunk)\n"
+
+#: class-easywpsmtp-admin.php:350
+msgid "When enabled, plugin attempts to block ALL emails from being sent out if domain mismtach."
+msgstr "Όταν είναι ενεργοποιημένο, το πρόσθετο προσπαθεί να εμποδίσει την αποστολή ΟΛΩΝ των emails αν η διεύθυνση διαδικτύου δεν ταιριάζει."
+
+#: class-easywpsmtp-admin.php:336
+msgid "Comma separated emails list. Example value: email1@domain.com, email2@domain.com"
+msgstr "Λίστα emails χωρισμένων με κόμμα. Ενδεικτική τιμή: email1@domain.com, email2@domain.com"
+
+#: class-easywpsmtp-admin.php:333
+msgid "Don't Replace \"From\" Field"
+msgstr "Μη Αντικατάσταση του Πεδίου \"Από\""
+
+#: class-easywpsmtp-admin.php:329
+msgid "Additional Settings (Optional)"
+msgstr "Επιπρόσθετες Ρυθμίσεις (Προαιρετικό)"
+
+#: class-easywpsmtp-admin.php:337
+msgid "This option is useful when you are using several email aliases on your SMTP server. If you don't want your aliases to be replaced by the address specified in \"From\" field, enter them in this field."
+msgstr "Αυτή η επιλογή είναι χρήσιμη όταν χρησιμοποιείτε πολλά ψευδώνυμα email στον διακομιστή SMTP σας. Αν δεν θέλετε τα ψευδώνυμά σας να αντικατασταθούν από τη διεύθυνση που καθορίστηκε στο πεδίο \"Από\", εισάγετέ τις σε αυτό το πεδίο."
+
+#: class-easywpsmtp-admin.php:200 class-easywpsmtp-admin.php:429
+msgid "Test Email"
+msgstr "Δοκιμαστικό Email"
+
+#: class-easywpsmtp-admin.php:30
+msgid "Log cleared."
+msgstr "Έγινε εκκαθάριση του αρχείου καταγραφής."
+
+#: class-easywpsmtp-admin.php:29
+msgid "Are you sure want to clear log?"
+msgstr "Είστε σίγουροι πως θέλετε να διαγράψετε το αρχείο καταγραφής;"
+
+#: class-easywpsmtp-admin.php:376
+msgid "Clear Log"
+msgstr "Εκκαθάριση του Αρχείου καταγραφής"
+
+#: class-easywpsmtp-admin.php:376
+msgid "View Log"
+msgstr "Εμφάνιση του Αρχείου καταγραφής"
+
+#: class-easywpsmtp-admin.php:375
+msgid "Check this box to enable mail debug log"
+msgstr "Επιλέξτε αυτό το κουτάκι για να ενεργοποιήσετε το αρχείο καταγραφής της αποσφαλμάτωσης της αλληλογραφίας."
+
+#: class-easywpsmtp-admin.php:372
+msgid "Enable Debug Log"
+msgstr "Ενεργοποίηση του Αρχείου καταγραφής Αποσφαλμάτωσης"
+
+#: class-easywpsmtp-admin.php:346
+msgid "Coma-separated domains list. Example: domain1.com, domain2.com"
+msgstr "Λίστα διευθύνσεων διαδικτύου χωρισμένων με κόμμα. Παράδειγμα: domain1.com, domain2.com"
+
+#: class-easywpsmtp-admin.php:344
+msgid "This option is usually used by developers only. SMTP settings will be used only if the site is running on following domain(s):"
+msgstr "Αυτή η επιλογή συνήθως χρησιμοποιείται μόνο από τους προγραμματιστές. Οι ρυθμίσεις SMTP θα χρησιμοποιηθούν μόνο αν ο ιστότοπος τρέχει στην(ις) ακόλουθη(ες) διεύθυνση(εις) διαδικτύου:"
+
+#: class-easywpsmtp-admin.php:341
+msgid "Enable Domain Check"
+msgstr "Ενεργοποίηση του Ελέγχου της Διεύθυνσης Διαδικτύου"
+
+#: class-easywpsmtp-admin.php:243
+msgid "Optional. This email address will be used in the 'Reply-To' field of the email. Leave it blank to use 'From' email as the reply-to value."
+msgstr "Προαιρετικό. Αυτή η διεύθυνση email θα χρησιμοποιηθεί στο πεδίο 'Απάντηση Προς' του email. Αφήστε το κενό για να χρησιμοποιήσετε το email 'Από' ως τιμή απάντησης."
+
+#: class-easywpsmtp-admin.php:240
+msgid "Reply-To Email Address"
+msgstr "Διεύθυνση Email Απάντησης"
+
+#: class-easywpsmtp-admin.php:172
+msgid "Please enter a valid email address in the recipient email field."
+msgstr "Παρακαλούμε, εισάγετε μία έγκυρη διεύθυνση email στο πεδίο email του παραλήπτη."
+
+#: class-easywpsmtp-admin.php:212
+msgid "SMTP Configuration Settings"
+msgstr "Ρυθμίσεις Παραμέτρων SMTP"
+
+#: class-easywpsmtp-admin.php:491
+msgid "Enter the recipient's email address"
+msgstr "Εισάγετε την διεύθυνση email του παραλήπτη"
+
+#: class-easywpsmtp-admin.php:505
+msgid "Write your email message"
+msgstr "Συντάξτε το μήνυμα του email σας"
+
+#: easy-wp-smtp.php:354
+msgid "Please configure your SMTP credentials in the <a href=\"%s\">settings menu</a> in order to send email using Easy WP SMTP plugin."
+msgstr "Παρακαλούμε, ρυθμίστε τα διαπιστευτήρια του SMTP σας στο <a href=\"%s\">μενού ρυθμίσεων</a> για να στείλετε email χρησιμοποιώντας το πρόσθετο Easy WP SMTP."
+
+#: class-easywpsmtp-admin.php:292
+msgid "No"
+msgstr "Όχι"
+
+#: class-easywpsmtp-admin.php:298
+msgid "Yes"
+msgstr "Ναι"
+
+#: class-easywpsmtp-admin.php:319 class-easywpsmtp-admin.php:381
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: class-easywpsmtp-admin.php:278
+msgid "SMTP Port"
+msgstr "Θύρα SMTP"
+
+#: class-easywpsmtp-admin.php:281
+msgid "The port to your mail server"
+msgstr "Η θύρα προς τον διακομιστή αλληλογραφίας σας"
+
+#: class-easywpsmtp-admin.php:285
+msgid "SMTP Authentication"
+msgstr "Επικύρωση SMTP"
+
+#: class-easywpsmtp-admin.php:299
+msgid "This options should always be checked 'Yes'"
+msgstr "Αυτή η επιλογή θα πρέπει να είναι πάντα 'Ναι'"
+
+#: class-easywpsmtp-admin.php:303
+msgid "SMTP Username"
+msgstr "Όνομα χρήστη SMTP"
+
+#: class-easywpsmtp-admin.php:306
+msgid "The username to login to your mail server"
+msgstr "Το όνομα χρήστη για την είσοδο στον διακομιστή αλληλογραφίας σας"
+
+#: class-easywpsmtp-admin.php:310
+msgid "SMTP Password"
+msgstr "Κωδικός SMTP"
+
+#: class-easywpsmtp-admin.php:313
+msgid "The password to login to your mail server"
+msgstr "Ο κωδικός για την είσοδο στον διακομιστή αλληλογραφίας σας"
+
+#: class-easywpsmtp-admin.php:488
+msgid "To"
+msgstr "Προς"
+
+#: class-easywpsmtp-admin.php:495
+msgid "Subject"
+msgstr "Θέμα"
+
+#: class-easywpsmtp-admin.php:498
+msgid "Enter a subject for your message"
+msgstr "Εισάγετε ένα θέμα για το μήνυμά σας"
+
+#: class-easywpsmtp-admin.php:502
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: class-easywpsmtp-admin.php:510
+msgid "Send Test Email"
+msgstr "Αποστολή Δοκιμαστικού Email"
+
+#. Author URI of the plugin
+msgid "https://wp-ecommerce.net/"
+msgstr "https://wp-ecommerce.net/"
+
+#. Plugin URI of the plugin
+msgid "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+msgstr "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+
+#. Description of the plugin
+msgid "Send email via SMTP from your WordPress Blog"
+msgstr "Στείλτε email μέσω SMTP από το WordPress Ιστολόγιο σας"
+
+#: class-easywpsmtp-admin.php:274
+msgid "For most servers SSL/TLS is the recommended option"
+msgstr "Για τους περισσότερους διακομιστές το SSL/TLS είναι η προτεινόμενη επιλογή"
+
+#: easy-wp-smtp.php:400 easy-wp-smtp.php:408
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#. Plugin Name of the plugin
+#: class-easywpsmtp-admin.php:42
+msgid "Easy WP SMTP"
+msgstr "Easy WP SMTP"
+
+#: class-easywpsmtp-admin.php:75
+msgid "Easy WP SMTP Settings"
+msgstr "Ρυθμίσεις Easy WP SMTP"
+
+#: class-easywpsmtp-admin.php:105
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Παρακαλούμε, εισάγετε μία έγκυρη διεύθυνση email στο πεδίο 'ΑΠΟΣΤΟΛΕΑΣ'."
+
+#: class-easywpsmtp-admin.php:149
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "Παρακαλούμε, εισάγετε μία έγκυρη θύρα στο πεδίο 'Θύρα SMTP'."
+
+#: class-easywpsmtp-admin.php:158
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: class-easywpsmtp-admin.php:160
+msgid "Settings are not saved."
+msgstr "Οι ρυθμίσεις δεν αποθηκεύτηκαν."
+
+#: class-easywpsmtp-admin.php:219
+msgid "From Email Address"
+msgstr "Διεύθυνση Email Αποστολέα"
+
+#: class-easywpsmtp-admin.php:222
+msgid "This email address will be used in the 'From' field."
+msgstr "Αυτή η διεύθυνση email θα χρησιμοποιηθεί στο πεδίο 'Αποστολέας'."
+
+#: class-easywpsmtp-admin.php:226
+msgid "From Name"
+msgstr "Όνομα Αποστολέα"
+
+#: class-easywpsmtp-admin.php:229
+msgid "This text will be used in the 'FROM' field"
+msgstr "Αυτό το κείμενο θα χρησιμοποιηθεί στο πεδίο 'ΑΠΟΣΤΟΛΕΑΣ'"
+
+#: class-easywpsmtp-admin.php:247
+msgid "SMTP Host"
+msgstr "Πάροχος SMTP"
+
+#: class-easywpsmtp-admin.php:250
+msgid "Your mail server"
+msgstr "Ο διακομιστής αλληλογραφίας σας"
+
+#: class-easywpsmtp-admin.php:254
+msgid "Type of Encryption"
+msgstr "Τύπος της Κρυπτογράφησης"
+
+#: class-easywpsmtp-admin.php:261
+msgid "None"
+msgstr "Καμία"

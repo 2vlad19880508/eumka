@@ -1,0 +1,407 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-18 19:09:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post-admin.php:797
+msgid "Donate to support Duplicate Post"
+msgstr "Duplicate Post를 지원하기 위해 기부"
+
+#: duplicate-post-admin.php:375
+msgid "Clone &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 복사"
+
+#: duplicate-post-admin.php:356
+msgid "Delete reference to original item: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "원래 항목에 대한 참조 삭제: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#. translators: Original item link (to view or edit) or title.
+#: duplicate-post-admin.php:325
+msgid "Original: %s"
+msgstr "원본: %s"
+
+#: duplicate-post-admin.php:300
+msgid "Delete reference to original item: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "원본 항목에 대한 참조 삭제: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: duplicate-post-admin.php:271
+msgid "Original item"
+msgstr "원본 항목"
+
+#: duplicate-post-admin.php:213
+msgid "Accessibility of the user interface has been improved"
+msgstr "사용자 인터페이스의 접근성이 개선됨"
+
+#: duplicate-post-options.php:610
+msgid "you'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "빠른 편집의 확인란을 사용하여 원본 항목에 대한 참조를 삭제할 수도 있습니다"
+
+#: duplicate-post-options.php:604
+msgid "you'll also be able to delete the reference to the original item with a checkbox"
+msgstr "확인란을 사용하여 원본 항목에 대한 참조를 삭제할 수도 있습니다"
+
+#: duplicate-post-options.php:598
+msgid "Show original item:"
+msgstr "원본 항목 표시 :"
+
+#: duplicate-post-options.php:351
+msgid "Settings sections"
+msgstr "설정 섹션"
+
+#: duplicate-post-options.php:97
+msgid "Support forum for Duplicate Post"
+msgstr "Duplicate Post 지원 포럼"
+
+#: duplicate-post-options.php:96
+msgid "Translate Duplicate Post"
+msgstr "Duplicate Post 번역"
+
+#: duplicate-post-options.php:95 duplicate-post-admin.php:796
+msgid "Documentation for Duplicate Post"
+msgstr "Duplicate Post 설명서"
+
+#: duplicate-post-options.php:92 duplicate-post-admin.php:216
+msgid "Support the plugin by making a donation or becoming a patron!"
+msgstr "기부 또는 후원자가되어 플러그인을 지원하십시오!"
+
+#: duplicate-post.php:52
+msgid "Settings for Duplicate Post"
+msgstr "Duplicate Post 설정"
+
+#. translators: %s: post title
+#: duplicate-post-common.php:133
+msgid "View &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 보기"
+
+#: duplicate-post-common.php:124
+msgid "Preview &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 미리보기"
+
+#: duplicate-post-common.php:114
+msgid "Edit &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 편집"
+
+#: duplicate-post-options.php:603
+msgid "In a metabox in the Edit screen [Classic editor]"
+msgstr "편집 화면의 메타 박스에서 [고전 편집기]"
+
+#: duplicate-post-options.php:593
+msgid "You can also use the template tag duplicate_post_clone_post_link( $link, $before, $after, $id ). You can find more info about this on the <a href=\"%s\">developer&apos;s guide for Duplicate Post</a>"
+msgstr "템플릿 태그 duplicate_post_clone_post_link ($link, $before, $after, $id)를 사용할 수도 있습니다. 이에 대한 자세한 정보는 <a href=\"%s\"> Duplicate Post 개발자 안내서 </a>에서 확인할 수 있습니다"
+
+#: duplicate-post-admin.php:212
+msgid "New options to show the original in the post list or in the edit screen!"
+msgstr "새로운 옵션은 글 목록이나 편집 화면에 원본을 표시합니다!"
+
+#: duplicate-post-admin.php:378
+msgid "Copy &#8220;%s&#8221; to a new draft"
+msgstr "&#8220;%s&#8221;(을)를 임시글로 복사"
+
+#: duplicate-post-options.php:609
+msgid "In a column in the Post list"
+msgstr "글 목록의 열에서"
+
+#: duplicate-post-options.php:615
+msgid "After the title in the Post list"
+msgstr "글 목록의 제목 다음"
+
+#: duplicate-post-options.php:583
+msgid "now works on Edit screen too - check this option to use with Gutenberg enabled"
+msgstr "이제 편집 화면에서도 동작 - 구텐베르그 편집기에서 사용하려면 이 옵션을 확인"
+
+#: duplicate-post-admin.php:210
+msgid "What's new in Duplicate Post version %s:"
+msgstr "Duplicate Post 버전 %s의 새로운 기능 :"
+
+#: duplicate-post-admin.php:215
+msgid "Check out the documentation"
+msgstr "설명서를 확인하십시오"
+
+#: duplicate-post-options.php:90 duplicate-post-admin.php:216
+msgid "Serving the WordPress community since November 2007."
+msgstr "2007년 11월부터 WordPress 커뮤니티에 서비스를 제공합니다."
+
+#: duplicate-post-admin.php:422
+msgid "Current user is not allowed to copy posts."
+msgstr "현재 사용자는 글을 복사 할 수 없습니다."
+
+#. Plugin URI of the plugin
+msgid "https://duplicate-post.lopo.it/"
+msgstr "https://duplicate-post.lopo.it/"
+
+#: duplicate-post-options.php:425
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "매우 특별한 요구 사항이 없다면 아마 이것을 체크하지 않기를 원할 것입니다"
+
+#: duplicate-post-options.php:95 duplicate-post-admin.php:796
+msgid "Documentation"
+msgstr "문서"
+
+#: duplicate-post-options.php:622
+msgid "Show update notice"
+msgstr "업데이트 알림 표시"
+
+#: duplicate-post-options.php:587
+msgid "Bulk Actions"
+msgstr "일괄작업"
+
+#: duplicate-post-options.php:488
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "*를 사용하여 영숫자 문자 또는 밑줄과 일치하는 경우: 예: field*"
+
+#: duplicate-post-options.php:434
+msgid "Menu order"
+msgstr "메뉴 순서"
+
+#: duplicate-post-options.php:419
+msgid "Author"
+msgstr "작성자"
+
+#: duplicate-post-options.php:416
+msgctxt "post format"
+msgid "Format"
+msgstr "형식"
+
+#: duplicate-post-options.php:413
+msgid "Template"
+msgstr "템플릿"
+
+#: duplicate-post-options.php:410
+msgid "Featured Image"
+msgstr "대표 이미지"
+
+#: duplicate-post-options.php:97
+msgid "Support Forum"
+msgstr "지원 포럼"
+
+#: duplicate-post-admin.php:215
+msgid "Please <a href=\"%s\">review the settings</a> to make sure it works as you expect."
+msgstr "<a href=\"%s\">설정을 검토하여</a> 예상대로 작동하는지 확인하십시오."
+
+#: duplicate-post-admin.php:807
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s 항목을 복사하였습니다."
+
+#: duplicate-post-options.php:431
+msgid "Comments"
+msgstr "댓글"
+
+#: duplicate-post-options.php:392
+msgid "Title"
+msgstr "제목"
+
+#: duplicate-post-options.php:495
+msgid "Show/hide private taxonomies"
+msgstr "개인 분류 체계 표시 / 숨기기"
+
+#: duplicate-post-options.php:467
+msgid "Increase menu order by"
+msgstr "오름차순 메뉴 정렬"
+
+#: duplicate-post-options.php:428
+msgid "Children"
+msgstr "하위 항목"
+
+#: duplicate-post-options.php:425
+msgid "Attachments"
+msgstr "첨부 파일"
+
+#: duplicate-post-options.php:422
+msgid "Password"
+msgstr "비밀번호"
+
+#: duplicate-post-options.php:407
+msgid "Content"
+msgstr "내용"
+
+#: duplicate-post-options.php:404
+msgid "Excerpt"
+msgstr "발췌"
+
+#: duplicate-post-options.php:401
+msgid "Slug"
+msgstr "슬러그"
+
+#: duplicate-post-options.php:398
+msgid "Status"
+msgstr "상태"
+
+#: duplicate-post-options.php:395
+msgid "Date"
+msgstr "날짜"
+
+#: duplicate-post-options.php:376
+msgid "Display"
+msgstr "표시"
+
+#: duplicate-post-options.php:367
+msgid "Permissions"
+msgstr "권한"
+
+#: duplicate-post-options.php:358
+msgid "What to copy"
+msgstr "무엇이 복사 되나요"
+
+#: duplicate-post-admin.php:703
+msgid "Untitled"
+msgstr "제목없음"
+
+#: duplicate-post-admin.php:219
+msgid "Dismiss this notice."
+msgstr "이 알림을 닫습니다."
+
+#: duplicate-post-options.php:473
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "이 숫자를 원래 메뉴 순서에 추가합니다 (값을 유지하기 위해 공백 또는 0)"
+
+#: duplicate-post-options.php:560
+msgid "Select the post types you want the plugin to be enabled"
+msgstr "플러그인을 활성화하려는 글 유형을 선택하십시오"
+
+#: duplicate-post-options.php:551
+msgid "Enable for these post types"
+msgstr "이 글 유형에 사용"
+
+#: duplicate-post-admin.php:684
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "이 글 유형의 복사 기능이 옵션 페이지에서 활성화되어 있지 않습니다"
+
+#: duplicate-post-options.php:388
+msgid "Post/page elements to copy"
+msgstr "복사 할 글/페이지 요소"
+
+#: duplicate-post-options.php:431
+msgid "except pingbacks and trackbacks"
+msgstr "핑백과 트랙백 제외"
+
+#: duplicate-post-options.php:561 duplicate-post-options.php:592
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements"
+msgstr "테마 또는 플러그인에 의해 등록된 사용자 정의 글 유형에 대한 링크 표시 여부는 표준 WordPress UI 요소의 사용에 따라 다릅니다"
+
+#: duplicate-post-options.php:545
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors"
+msgstr "암호로 보호 된 글의 암호 및 내용이 원하지 않는 사용자와 방문자에게 표시 될 수 있습니다"
+
+#: duplicate-post.php:53
+msgid "Settings"
+msgstr "설정"
+
+#: duplicate-post-options.php:633
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: duplicate-post-admin.php:797
+msgid "Donate"
+msgstr "기부"
+
+#. Author URI of the plugin
+msgid "https://lopo.it"
+msgstr "https://lopo.it"
+
+#. Author of the plugin
+msgid "Enrico Battocchi"
+msgstr "엔리코 바토치"
+
+#: duplicate-post-options.php:583
+msgid "Admin bar"
+msgstr "관리자 표시줄"
+
+#: duplicate-post-options.php:581
+msgid "Edit screen"
+msgstr "화면 편집"
+
+#: duplicate-post-options.php:575
+msgid "Show links in"
+msgstr "링크 표시"
+
+#: duplicate-post-options.php:527
+msgid "Roles allowed to copy"
+msgstr "복사 권한이 있는 역할"
+
+#: duplicate-post-options.php:512
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "복사하지 않으려는 분류를 선택하십시오"
+
+#: duplicate-post-options.php:493
+msgid "Do not copy these taxonomies"
+msgstr "이 분류를 복사하지 마십시오"
+
+#: duplicate-post-options.php:487
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "복사해서는 안 될 쉼표로 구분 된 메타 필드 목록"
+
+#: duplicate-post-options.php:480
+msgid "Do not copy these fields"
+msgstr "이 필드들은 복사하지 말 것"
+
+#. Plugin Name of the plugin
+#: duplicate-post-options.php:49
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: duplicate-post-options.php:49 duplicate-post-options.php:79
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post 옵션"
+
+#: duplicate-post-options.php:96
+msgid "Translate"
+msgstr "번역"
+
+#: duplicate-post-admin.php:466
+msgid "Copy creation failed, could not find original:"
+msgstr "사본을 만들지 못함, 원본을 찾을 수 없음:"
+
+#: duplicate-post-admin.php:379
+msgid "New Draft"
+msgstr "새로운 임시글"
+
+#: duplicate-post-common.php:78 duplicate-post-common.php:81
+#: duplicate-post-common.php:172 duplicate-post-common.php:184
+#: duplicate-post-admin.php:395
+msgid "Copy to a new draft"
+msgstr "복사해서 새 임시글 만들기"
+
+#: duplicate-post-admin.php:376 duplicate-post-admin.php:831
+msgid "Clone"
+msgstr "복제"
+
+#: duplicate-post-options.php:454
+msgid "Title suffix"
+msgstr "제목 접미"
+
+#: duplicate-post-options.php:460
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "제목 뒤에 추가 될 접미 (예 : \"(dup)\"(접미가 없는 경우 공백)"
+
+#: duplicate-post-admin.php:426
+msgid "No post to duplicate has been supplied!"
+msgstr "복사할 글이 제공되지 않았습니다!"
+
+#: duplicate-post-options.php:447
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "제목 앞에 추가할 접두입니다. 예) “Copy of”(접두가 없는 경우 공란)"
+
+#: duplicate-post-options.php:441
+msgid "Title prefix"
+msgstr "제목 접두"
+
+#: duplicate-post-options.php:544
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "경고 : 사용자는 다른 사용자의 글을 포함한 모든 글을 복사 할 수 있습니다"
+
+#: duplicate-post-options.php:579
+msgid "Post list"
+msgstr "글 목록"
+
+#. Description of the plugin
+msgid "Clone posts and pages."
+msgstr "글과 페이지를 복제합니다."

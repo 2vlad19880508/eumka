@@ -1,0 +1,466 @@
+# Translation of Plugins - Easy WP SMTP - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Easy WP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-04 06:34:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Easy WP SMTP - Development (trunk)\n"
+
+#: easy-wp-smtp.php:380
+msgid "Can't clear log - file is not writeable."
+msgstr "由於無法寫入檔案，因此無法清除記錄。"
+
+#: class-easywpsmtp-admin.php:406
+msgid "Warning! This can't be undone."
+msgstr "警告: 這項操作無法復原。"
+
+#: class-easywpsmtp-admin.php:405
+msgid "This will remove ALL your settings and deactivate the plugin. Useful when you're uninstalling the plugin and want to completely remove all crucial data stored in the database."
+msgstr "這項操作會移除全部設定並停用外掛。如果要將外掛解除安裝並完整移除儲存於資料庫中的重要資料，這項功能會非常有幫助。"
+
+#: class-easywpsmtp-admin.php:405
+msgid "Self-destruct"
+msgstr "完整移除外掛"
+
+#: class-easywpsmtp-admin.php:403
+msgid "Delete Settings and Deactivate Plugin"
+msgstr "刪除設定並停用外掛"
+
+#: class-easywpsmtp-admin.php:399
+msgid "Use this to import plugin settings from a file. Note this would replace all your existing settings, so use with caution."
+msgstr "使用這項功能從檔案匯入外掛設定。請注意，匯入的設定會取代目前現有的全部設定，請審慎使用這項功能。"
+
+#: class-easywpsmtp-admin.php:398
+msgid "Import Settings"
+msgstr "匯入設定"
+
+#: class-easywpsmtp-admin.php:396
+msgid "Use this to export plugin settings to a file."
+msgstr "使用這項功能將外掛設定匯出成檔案。"
+
+#: class-easywpsmtp-admin.php:395
+msgid "Export Settings"
+msgstr "匯出設定"
+
+#: class-easywpsmtp-admin.php:393
+msgid "Export\\Import Settings"
+msgstr "匯出/匯入設定"
+
+#: class-easywpsmtp-admin.php:390
+msgid "Actions in this section can (and some of them will) erase or mess up your settings. Use it with caution."
+msgstr "這個區段中有幾項操作會清除或弄亂現有設定，請審慎使用這些功能。"
+
+#: class-easywpsmtp-admin.php:388
+msgid "Danger Zone"
+msgstr "高風險操作"
+
+#: class-easywpsmtp-admin.php:34
+msgid "All settings have been deleted and plugin is deactivated."
+msgstr "全部設定已刪除，且外掛已停用。"
+
+#: class-easywpsmtp-admin.php:33
+msgid "Are you sure you want to delete ALL your settings and deactive plugin?"
+msgstr "確定要刪除全部設定並停用外掛？"
+
+#: easy-wp-smtp.php:565
+msgid "Please refresh the page and try again."
+msgstr "請重新整理頁面後再試一次。"
+
+#: easy-wp-smtp.php:366
+msgid "Settings have been imported successfully."
+msgstr "設定已成功匯入。"
+
+#: easy-wp-smtp.php:302
+msgid "Error occurred during settings import"
+msgstr "匯入設定時發生錯誤。"
+
+#. translators: %s is replaced by documentation page URL
+#: class-easywpsmtp-admin.php:529
+msgctxt "%s is replaced by <a target=\"_blank\" href=\"https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197\">Easy WP SMTP</a>"
+msgid "Please visit the %s plugin's documentation page to learn how to use this plugin."
+msgstr "請參閱 %s 外掛的線上說明頁面，以進一步瞭解如何使用這個外掛。"
+
+#: class-easywpsmtp-admin.php:523
+msgid "Documentation"
+msgstr "線上說明"
+
+#: class-easywpsmtp-admin.php:32
+msgid "Sending..."
+msgstr "正在傳送..."
+
+#: class-easywpsmtp-admin.php:31
+msgid "Error occurred:"
+msgstr "發生的錯誤:"
+
+#: class-easywpsmtp-admin.php:273
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: class-easywpsmtp-admin.php:267
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#. Author of the plugin
+msgid "wpecommerce, alexanderfoxc"
+msgstr "wpecommerce 及 alexanderfoxc"
+
+#: class-easywpsmtp-admin.php:461
+msgid "Hide Debug Log"
+msgstr "隱藏偵錯資訊"
+
+#: class-easywpsmtp-admin.php:451 class-easywpsmtp-admin.php:459
+msgid "Show Debug Log"
+msgstr "顯示偵錯資訊"
+
+#: class-easywpsmtp-admin.php:440
+msgid "Test email was successfully sent. No errors occurred during the process."
+msgstr "測試用電子郵件已成功傳送，傳送過程中沒有發生任何錯誤。"
+
+#: class-easywpsmtp-admin.php:437
+msgid "Following error occurred when attempting to send test email:"
+msgstr "嘗試傳送測試用電子郵件時發生以下錯誤:"
+
+#: class-easywpsmtp-admin.php:358
+msgid "When enabled, your SMTP password is stored in the database using AES-256 encryption."
+msgstr "啟用這項設定後，會使用 AES-256 加密將密碼儲存在資料庫中。"
+
+#: class-easywpsmtp-admin.php:354
+msgid "Encrypt Password"
+msgstr "加密密碼"
+
+#. translators: %s is PHP version
+#: class-easywpsmtp-admin.php:70
+msgid "Your PHP version is %s, encryption function requires PHP version 5.3.0 or higher."
+msgstr "網站伺服器執行的 PHP 為 %s 版，加密連線函式需要 PHP 5.3.0 或更新版本。"
+
+#: class-easywpsmtp-admin.php:62
+msgid "PHP OpenSSL extension is not installed on the server. It is required for encryption to work properly. Please contact your server administrator or hosting provider and ask them to install it."
+msgstr "PHP OpenSSL 擴充模組並未安裝於這台伺服器，這是加密連線賴以正常執行的擴充模組。請聯絡這個網站的伺服器管理員或主機服務提供商，然後要求他們安裝 OpenSSL 擴充模組。"
+
+#: class-easywpsmtp-admin.php:59
+msgid "PHP OpenSSL extension is not installed on the server. It's required by Easy WP SMTP plugin to operate properly. Please contact your server administrator or hosting provider and ask them to install it."
+msgstr "PHP OpenSSL 擴充模組並未安裝於這台伺服器，這是 Easy WP SMTP 賴以正常執行的擴充模組。請聯絡這個網站的伺服器管理員或主機服務提供商，然後要求他們安裝 OpenSSL 擴充模組。"
+
+#: class-easywpsmtp-admin.php:235
+msgid "If email's From Name is empty, the plugin will set the above value regardless."
+msgstr "傳送電子郵件時如果寄件者名稱留空，外掛則無論如何都會將寄件者名稱設定為上方欄位的值。"
+
+#: class-easywpsmtp-admin.php:233
+msgid "When enabled, the plugin will set the above From Name for each email. Disable it if you're using contact form plugins, it will prevent the plugin from replacing form submitter's name when contact email is sent."
+msgstr "啟用這項設定後，外掛會將每一封電子郵件的寄件者名稱設定為上方 [寄件者名稱] 欄位中的值。使用聯絡表單類的外掛時，請停用這項設定，因為這項設定會導致傳送聯絡表單電子郵件時無法將寄件者名稱代入填表者名稱。"
+
+#: class-easywpsmtp-admin.php:231
+msgid "Force From Name Replacement"
+msgstr "強制使用 [寄件者名稱] 欄位設定"
+
+#: class-easywpsmtp-admin.php:564
+msgid "rating"
+msgstr "評等"
+
+#. translators: %s is replaced by rating link
+#: class-easywpsmtp-admin.php:560
+msgctxt "%s is replaced by \"rating\" link"
+msgid "Like the plugin? Please give us a %s"
+msgstr "喜歡這個外掛嗎？請為這個外掛進行%s。"
+
+#: class-easywpsmtp-admin.php:554
+msgid "Rate Us"
+msgstr "請為我們進行評等"
+
+#: class-easywpsmtp-admin.php:547
+msgid "Support Forum"
+msgstr "技術支援論壇"
+
+#. translators: %s is replaced by support forum URL
+#: class-easywpsmtp-admin.php:543
+msgctxt "%s is replaced by \"Support Forum\" link"
+msgid "Having issues or difficulties? You can post your issue on the %s"
+msgstr "如果遇到使用問題或難題，請將問題發佈至%s。"
+
+#: class-easywpsmtp-admin.php:537
+msgid "Support"
+msgstr "技術支援"
+
+#: class-easywpsmtp-admin.php:314
+msgid "when you click \"Save Changes\", your actual password is stored in the database and then used to send emails. This field is replaced with a gag (#easywpsmtpgagpass#). This is done to prevent someone with the access to Settings page from seeing your password (using password fields unmasking programs, for example)."
+msgstr "點擊 [儲存設定] 後，在這個頁面輸入的密碼便會儲存於資料庫中，並用於登入外寄郵件伺服器傳送郵件。輸入的密碼會以隱藏字元顯示，這是為了防止其他有權限存取 [SMTP 設定] 頁面的使用者看到已輸入的密碼；如果有人試圖使用顯示密碼的軟體檢視，只會看到 #easywpsmtpgagpass#。"
+
+#: class-easywpsmtp-admin.php:368
+msgid "Allows insecure and self-signed SSL certificates on SMTP server. It's highly recommended to keep this option disabled."
+msgstr "在 SMTP 伺服器上開放使用不安全及自我簽署的憑證。強烈建議<strong>不要啟用</strong>這項設定。"
+
+#: class-easywpsmtp-admin.php:365
+msgid "Allow Insecure SSL Certificates"
+msgstr "開放使用不安全的 SSL 憑證"
+
+#: class-easywpsmtp-admin.php:483
+msgid "debug log for this test email will be automatically displayed right after you send it. Test email also ignores \"Enable Domain Check\" option."
+msgstr "測試用電子郵件的偵錯記錄，在傳送電子郵件後會自動立即顯示。測試用電子郵件同時也會忽略 [啟用網域檢查] 這項設定。"
+
+#: class-easywpsmtp-admin.php:314 class-easywpsmtp-admin.php:431
+#: class-easywpsmtp-admin.php:483
+msgctxt "\"Note\" as in \"Note: keep this in mind\""
+msgid "Note:"
+msgstr "注意:"
+
+#: class-easywpsmtp-admin.php:482
+msgid "You can use this section to send an email from your server using the above configured SMTP details to see if the email gets delivered."
+msgstr "網站管理員可以使用這個區段，透過已完成的 SMTP 設定從外寄郵件伺服器傳送電子郵件，並查看電子郵件是否送達目標。"
+
+#: class-easywpsmtp-admin.php:431
+msgid "You have unsaved settings. In order to send a test email, you need to go back to previous tab and click \"Save Changes\" button first."
+msgstr "設定尚未儲存。如需傳送測試用電子郵件，請先返回前一個分頁並點擊 [儲存設定]。"
+
+#: class-easywpsmtp-admin.php:348
+msgid "Block all emails"
+msgstr "封鎖全部電子郵件"
+
+#: class-easywpsmtp-admin.php:215
+msgid "You can request your hosting provider for the SMTP details of your site. Use the SMTP details provided by your hosting provider to configure the following settings."
+msgstr "請要求電子郵件服務提供商提供這個網站所需的 SMTP 詳細資料，並使用電子郵件服務提供商提供的 SMTP 詳細資料完成以下設定。"
+
+#: class-easywpsmtp-admin.php:198
+msgid "SMTP Settings"
+msgstr "SMTP 設定"
+
+#: easy-wp-smtp.php:374 class-easywpsmtp-admin.php:95
+msgid "Nonce check failed."
+msgstr "一次性隨機碼檢查失敗。"
+
+#: class-easywpsmtp-admin.php:350
+msgid "When enabled, plugin attempts to block ALL emails from being sent out if domain mismtach."
+msgstr "啟用這項設定後，外掛便會試著封鎖全部要傳送至網域與上方設定不相符的電子郵件。"
+
+#: class-easywpsmtp-admin.php:337
+msgid "This option is useful when you are using several email aliases on your SMTP server. If you don't want your aliases to be replaced by the address specified in \"From\" field, enter them in this field."
+msgstr "當網站管理員在 SMTP 伺服器上使用多個電子郵件別名時，這項設定會非常有用。如果不要 [寄件者] 欄位中的電子郵件地址取代這些電子郵件別名，請在這個欄位設定電子郵件別名。"
+
+#: class-easywpsmtp-admin.php:336
+msgid "Comma separated emails list. Example value: email1@domain.com, email2@domain.com"
+msgstr "請使用逗號分隔多個電子郵件清單。範例: email1@domain.com, email2@domain.com"
+
+#: class-easywpsmtp-admin.php:333
+msgid "Don't Replace \"From\" Field"
+msgstr "不使用 [寄件者] 欄位設定"
+
+#: class-easywpsmtp-admin.php:329
+msgid "Additional Settings (Optional)"
+msgstr "其他設定 (選用)"
+
+#: class-easywpsmtp-admin.php:200 class-easywpsmtp-admin.php:429
+msgid "Test Email"
+msgstr "測試用電子郵件"
+
+#: class-easywpsmtp-admin.php:30
+msgid "Log cleared."
+msgstr "記錄已清除。"
+
+#: class-easywpsmtp-admin.php:29
+msgid "Are you sure want to clear log?"
+msgstr "確定要進行這項操作？"
+
+#: class-easywpsmtp-admin.php:376
+msgid "Clear Log"
+msgstr "清除記錄"
+
+#: class-easywpsmtp-admin.php:376
+msgid "View Log"
+msgstr "檢視記錄"
+
+#: class-easywpsmtp-admin.php:375
+msgid "Check this box to enable mail debug log"
+msgstr "啟用這項設定後，便會開始記錄電子郵件偵錯資訊。"
+
+#: class-easywpsmtp-admin.php:372
+msgid "Enable Debug Log"
+msgstr "啟用偵錯記錄"
+
+#: class-easywpsmtp-admin.php:346
+msgid "Coma-separated domains list. Example: domain1.com, domain2.com"
+msgstr "請使用逗號分隔網域清單。範例: domain1.com, domain2.com"
+
+#: class-easywpsmtp-admin.php:344
+msgid "This option is usually used by developers only. SMTP settings will be used only if the site is running on following domain(s):"
+msgstr "這項設定通常僅供開發者使用。僅有網站執行於下列網域時，SMTP 設定才會生效:"
+
+#: class-easywpsmtp-admin.php:341
+msgid "Enable Domain Check"
+msgstr "啟用網域檢查"
+
+#: class-easywpsmtp-admin.php:199
+msgid "Additional Settings"
+msgstr "其他設定"
+
+#: class-easywpsmtp-admin.php:243
+msgid "Optional. This email address will be used in the 'Reply-To' field of the email. Leave it blank to use 'From' email as the reply-to value."
+msgstr "選用設定。在這裡輸入的電子郵件地址，會使用於電子郵件的 [回覆] 欄位。如果這個欄位留空，便會以 [寄件者] 欄位的電子郵件地址作為 [回覆] 欄位的值。"
+
+#: class-easywpsmtp-admin.php:240
+msgid "Reply-To Email Address"
+msgstr "回覆電子郵件地址"
+
+#: class-easywpsmtp-admin.php:505
+msgid "Write your email message"
+msgstr "請撰寫電子郵件內容。"
+
+#: class-easywpsmtp-admin.php:491
+msgid "Enter the recipient's email address"
+msgstr "請輸入收件者電子郵件位址。"
+
+#: class-easywpsmtp-admin.php:212
+msgid "SMTP Configuration Settings"
+msgstr "SMTP 組態設定"
+
+#: class-easywpsmtp-admin.php:172
+msgid "Please enter a valid email address in the recipient email field."
+msgstr "請輸入正確的收件者電子郵件地址。"
+
+#: easy-wp-smtp.php:354
+msgid "Please configure your SMTP credentials in the <a href=\"%s\">settings menu</a> in order to send email using Easy WP SMTP plugin."
+msgstr "請在 Easy WP SMTP <a href=\"%s\">設定頁面</a>中設定 SMTP 憑證，以便使用 Easy WP SMTP 外掛傳送電子郵件。"
+
+#. Author URI of the plugin
+msgid "https://wp-ecommerce.net/"
+msgstr "https://wp-ecommerce.net/"
+
+#. Description of the plugin
+msgid "Send email via SMTP from your WordPress Blog"
+msgstr "在 WordPress 網站中透過 SMTP 傳送電子郵件。"
+
+#. Plugin URI of the plugin
+msgid "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+msgstr "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+
+#: class-easywpsmtp-admin.php:510
+msgid "Send Test Email"
+msgstr "傳送測試用電子郵件"
+
+#: class-easywpsmtp-admin.php:502
+msgid "Message"
+msgstr "郵件內容"
+
+#: class-easywpsmtp-admin.php:498
+msgid "Enter a subject for your message"
+msgstr "請為郵件內容輸入主旨。"
+
+#: class-easywpsmtp-admin.php:495
+msgid "Subject"
+msgstr "主旨"
+
+#: class-easywpsmtp-admin.php:488
+msgid "To"
+msgstr "收件者"
+
+#: class-easywpsmtp-admin.php:319 class-easywpsmtp-admin.php:381
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: class-easywpsmtp-admin.php:313
+msgid "The password to login to your mail server"
+msgstr "請輸入登入外寄郵件伺服器所需的密碼。"
+
+#: class-easywpsmtp-admin.php:310
+msgid "SMTP Password"
+msgstr "SMTP 密碼"
+
+#: class-easywpsmtp-admin.php:306
+msgid "The username to login to your mail server"
+msgstr "請輸入登入外寄郵件伺服器所需的使用者名稱。"
+
+#: class-easywpsmtp-admin.php:303
+msgid "SMTP Username"
+msgstr "SMTP 使用者名稱"
+
+#: class-easywpsmtp-admin.php:299
+msgid "This options should always be checked 'Yes'"
+msgstr "這個設定應該永遠保持為 [是]。"
+
+#: class-easywpsmtp-admin.php:298
+msgid "Yes"
+msgstr "是"
+
+#: class-easywpsmtp-admin.php:292
+msgid "No"
+msgstr "否"
+
+#: class-easywpsmtp-admin.php:285
+msgid "SMTP Authentication"
+msgstr "SMTP 驗證"
+
+#: class-easywpsmtp-admin.php:281
+msgid "The port to your mail server"
+msgstr "請輸入外寄郵件伺服器通訊埠埠號。"
+
+#: class-easywpsmtp-admin.php:278
+msgid "SMTP Port"
+msgstr "SMTP 通訊埠"
+
+#: class-easywpsmtp-admin.php:274
+msgid "For most servers SSL/TLS is the recommended option"
+msgstr "對大多數的伺服器來說，建議使用 SSL/TLS 加密。"
+
+#: class-easywpsmtp-admin.php:261
+msgid "None"
+msgstr "不加密"
+
+#: class-easywpsmtp-admin.php:254
+msgid "Type of Encryption"
+msgstr "加密類型"
+
+#: class-easywpsmtp-admin.php:250
+msgid "Your mail server"
+msgstr "請輸入外寄郵件伺服器主機名稱/位址。"
+
+#: class-easywpsmtp-admin.php:247
+msgid "SMTP Host"
+msgstr "SMTP 伺服器"
+
+#: class-easywpsmtp-admin.php:229
+msgid "This text will be used in the 'FROM' field"
+msgstr "在這裡輸入的名稱，會使用於 [寄件者] 欄位。"
+
+#: class-easywpsmtp-admin.php:226
+msgid "From Name"
+msgstr "寄件者名稱"
+
+#: class-easywpsmtp-admin.php:222
+msgid "This email address will be used in the 'From' field."
+msgstr "在這裡輸入的電子郵件地址，會使用於 [寄件者] 欄位。"
+
+#: class-easywpsmtp-admin.php:219
+msgid "From Email Address"
+msgstr "寄件者電子郵件地址"
+
+#: class-easywpsmtp-admin.php:75
+msgid "Easy WP SMTP Settings"
+msgstr "Easy WP SMTP 設定"
+
+#: class-easywpsmtp-admin.php:160
+msgid "Settings are not saved."
+msgstr "設定未儲存。"
+
+#: class-easywpsmtp-admin.php:158
+msgid "Settings saved."
+msgstr "設定已儲存。"
+
+#: class-easywpsmtp-admin.php:149
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "請輸入正確的 SMTP 通訊埠埠號。"
+
+#: class-easywpsmtp-admin.php:105
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "請輸入正確的寄件者電子郵件地址。"
+
+#: easy-wp-smtp.php:400 easy-wp-smtp.php:408
+msgid "Settings"
+msgstr "設定"
+
+#. Plugin Name of the plugin
+#: class-easywpsmtp-admin.php:42
+msgid "Easy WP SMTP"
+msgstr "Easy WP SMTP"

@@ -1,0 +1,408 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-10 17:58:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post.php:52
+msgid "Settings for Duplicate Post"
+msgstr "Innstillinger for Kopier innlegg"
+
+#: duplicate-post-common.php:124
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Forhåndsvis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: duplicate-post-common.php:133
+msgid "View &#8220;%s&#8221;"
+msgstr "Vis &#8220;%s&#8221;"
+
+#: duplicate-post-common.php:114
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Rediger &#8220;%s&#8221;"
+
+#: duplicate-post-options.php:615
+msgid "After the title in the Post list"
+msgstr "Etter overskriften i oversikten over innlegg"
+
+#: duplicate-post-options.php:96
+msgid "Translate Duplicate Post"
+msgstr "Oversett Kopier innlegg"
+
+#. translators: Original item link (to view or edit) or title.
+#: duplicate-post-admin.php:325
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: duplicate-post-admin.php:378
+msgid "Copy &#8220;%s&#8221; to a new draft"
+msgstr "Kopier &#8220;%s&#8221; til en ny kladd"
+
+#: duplicate-post-admin.php:375
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Kopier &#8220;%s&#8221;"
+
+#: duplicate-post-options.php:609
+msgid "In a column in the Post list"
+msgstr "I en kolonne i oversikten over innlegg"
+
+#: duplicate-post-options.php:598
+msgid "Show original item:"
+msgstr "Vis originalt element:"
+
+#: duplicate-post-options.php:351
+msgid "Settings sections"
+msgstr "Innstillingssesksjoner"
+
+#: duplicate-post-options.php:97
+msgid "Support forum for Duplicate Post"
+msgstr "Brukerstøtteforum for Kopier innlegg"
+
+#: duplicate-post-admin.php:271
+msgid "Original item"
+msgstr "Originalt element"
+
+#: duplicate-post-admin.php:356
+msgid "Delete reference to original item: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Slett referanse til originalt element : <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: duplicate-post-admin.php:300
+msgid "Delete reference to original item: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Slett referanse til originalt element: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: duplicate-post-admin.php:797
+msgid "Donate to support Duplicate Post"
+msgstr "Donér for å støtte Duplicate Post"
+
+#: duplicate-post-options.php:95 duplicate-post-admin.php:796
+msgid "Documentation for Duplicate Post"
+msgstr "Dokumentasjon for Duplicate Post"
+
+#: duplicate-post-options.php:603
+msgid "In a metabox in the Edit screen [Classic editor]"
+msgstr "I en metaboks på redigeringsskjermen [Klassisk redigering]"
+
+#: duplicate-post-options.php:610
+msgid "you'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "du vil også kunne slette referansen til det originale elementet med en avkrysningsboks i hurtigredigering"
+
+#: duplicate-post-options.php:604
+msgid "you'll also be able to delete the reference to the original item with a checkbox"
+msgstr "du vil også kunne slette referansen til det originale elementet med en avkrysningsboks"
+
+#: duplicate-post-admin.php:213
+msgid "Accessibility of the user interface has been improved"
+msgstr "Tilgjengelighet for brukergrensesnittet har blitt forbedret"
+
+#: duplicate-post-admin.php:212
+msgid "New options to show the original in the post list or in the edit screen!"
+msgstr "Nye alternativer for å vise originalen i innleggslisten eller på redigeringsskjermen!"
+
+#: duplicate-post-options.php:593
+msgid "You can also use the template tag duplicate_post_clone_post_link( $link, $before, $after, $id ). You can find more info about this on the <a href=\"%s\">developer&apos;s guide for Duplicate Post</a>"
+msgstr "Du kan også bruke malkoden duplicate_post_clone_post_link( $link, $before, $after, $id ). Du kan finne mer info om dette på <a href=\"%s\">utviklerens guide Duplicate Post</a>"
+
+#: duplicate-post-options.php:92 duplicate-post-admin.php:216
+msgid "Support the plugin by making a donation or becoming a patron!"
+msgstr "Støtt utvidelsen ved å donere eller støtte oss på Patreon!"
+
+#: duplicate-post-admin.php:210
+msgid "What's new in Duplicate Post version %s:"
+msgstr "Hva som er nytt i Dupliser innlegg, versjon %s:"
+
+#: duplicate-post-options.php:583
+msgid "now works on Edit screen too - check this option to use with Gutenberg enabled"
+msgstr "Virker nå også på redigeringsskjerm - Huk av dette alternative for bruk med Gutenberg aktivert"
+
+#: duplicate-post-admin.php:422
+msgid "Current user is not allowed to copy posts."
+msgstr "Denne brukeren har ikke rettigheter til å kopiere innlegg."
+
+#: duplicate-post-options.php:90 duplicate-post-admin.php:216
+msgid "Serving the WordPress community since November 2007."
+msgstr "Har støttet WordPress felleskapet siden november 2007."
+
+#: duplicate-post-admin.php:215
+msgid "Check out the documentation"
+msgstr "Ta en tit på dokumentasjonen"
+
+#. Plugin URI of the plugin
+msgid "https://duplicate-post.lopo.it/"
+msgstr "https://duplicate-post.lopo.it/"
+
+#: duplicate-post-options.php:425
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "du vil mest sannsynlig ikke ha behov for dette, unntatt hvis du har spesielle krav"
+
+#: duplicate-post-options.php:95 duplicate-post-admin.php:796
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: duplicate-post-options.php:622
+msgid "Show update notice"
+msgstr "Vis oppdateringsnotis"
+
+#: duplicate-post-options.php:587
+msgid "Bulk Actions"
+msgstr "Massehandlinger"
+
+#: duplicate-post-options.php:488
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Du kan bruke * for å få treff på null eller flere alfanumeriske tegn eller understreker: eks. felt*"
+
+#: duplicate-post-options.php:434
+msgid "Menu order"
+msgstr "Menyrekkefølge"
+
+#: duplicate-post-options.php:419
+msgid "Author"
+msgstr "Forfatter"
+
+#: duplicate-post-options.php:416
+msgctxt "post format"
+msgid "Format"
+msgstr "Format"
+
+#: duplicate-post-options.php:413
+msgid "Template"
+msgstr "Mal"
+
+#: duplicate-post-options.php:410
+msgid "Featured Image"
+msgstr "Fremhevet bilde"
+
+#: duplicate-post-options.php:97
+msgid "Support Forum"
+msgstr "Støtteforum"
+
+#: duplicate-post-admin.php:215
+msgid "Please <a href=\"%s\">review the settings</a> to make sure it works as you expect."
+msgstr "Vennligst <a href=\"%s\">sjekk innstillingene</a> for å være sikker på at alt virker som det skal."
+
+#: duplicate-post-admin.php:807
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s element kopiert."
+msgstr[1] "%s elementer kopiert."
+
+#: duplicate-post-options.php:425
+msgid "Attachments"
+msgstr "Vedlegg"
+
+#: duplicate-post-options.php:560
+msgid "Select the post types you want the plugin to be enabled"
+msgstr "Velg innholdstypene du ønsker at utvidelsen skal være aktivert for"
+
+#: duplicate-post-options.php:545
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors"
+msgstr "Passord on innhold i passordbeskyttede innlegg kan bli synlig for uønskede brukere og besøkende"
+
+#: duplicate-post-options.php:495
+msgid "Show/hide private taxonomies"
+msgstr "Vis/skjul private taksonomier"
+
+#: duplicate-post-options.php:473
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Legg til dette nummeret i den originale menyrekkefølgen (blant eller null for å beholde verdien)"
+
+#: duplicate-post-options.php:467
+msgid "Increase menu order by"
+msgstr "Øk menyrekkefølge med"
+
+#: duplicate-post-options.php:431
+msgid "except pingbacks and trackbacks"
+msgstr "unntatt tilbakeping og tilbaketråkk"
+
+#: duplicate-post-options.php:431
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: duplicate-post-options.php:428
+msgid "Children"
+msgstr "Under-innlegg"
+
+#: duplicate-post-options.php:422
+msgid "Password"
+msgstr "Passord"
+
+#: duplicate-post-options.php:407
+msgid "Content"
+msgstr "Innhold"
+
+#: duplicate-post-options.php:404
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: duplicate-post-options.php:401
+msgid "Slug"
+msgstr "Permalenke"
+
+#: duplicate-post-options.php:398
+msgid "Status"
+msgstr "Status"
+
+#: duplicate-post-options.php:395
+msgid "Date"
+msgstr "Dato"
+
+#: duplicate-post-options.php:392
+msgid "Title"
+msgstr "Tittel"
+
+#: duplicate-post-options.php:388
+msgid "Post/page elements to copy"
+msgstr "Innlegg-/sideelementer som skal kopieres"
+
+#: duplicate-post-options.php:376
+msgid "Display"
+msgstr "Vis"
+
+#: duplicate-post-options.php:367
+msgid "Permissions"
+msgstr "Tillatelser"
+
+#: duplicate-post-options.php:358
+msgid "What to copy"
+msgstr "Hva skal kopieres"
+
+#: duplicate-post-admin.php:703
+msgid "Untitled"
+msgstr "Uten tittel"
+
+#: duplicate-post-admin.php:219
+msgid "Dismiss this notice."
+msgstr "Skjul varselet."
+
+#: duplicate-post-options.php:551
+msgid "Enable for these post types"
+msgstr "Aktiver for disse innholdstypene"
+
+#: duplicate-post-admin.php:684
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopieringsfunksjoner for denne innholdstypen er ikke aktivert i alternativer"
+
+#: duplicate-post-options.php:561 duplicate-post-options.php:592
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements"
+msgstr "Om lenkene vises for egendefinerte innholdstyper registrert av temaer eller utvidelser kommer an på deres bruk av WordPress' standardelementer for brukergrensesnitt"
+
+#: duplicate-post.php:53
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: duplicate-post-options.php:633
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: duplicate-post-admin.php:376 duplicate-post-admin.php:831
+msgid "Clone"
+msgstr "Klone"
+
+#: duplicate-post-common.php:78 duplicate-post-common.php:81
+#: duplicate-post-common.php:172 duplicate-post-common.php:184
+#: duplicate-post-admin.php:395
+msgid "Copy to a new draft"
+msgstr "Kopier til en ny kladd"
+
+#: duplicate-post-admin.php:466
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiering feilet, kunne ikke finne originalen:"
+
+#: duplicate-post-options.php:96
+msgid "Translate"
+msgstr "Oversett"
+
+#: duplicate-post-options.php:480
+msgid "Do not copy these fields"
+msgstr "Ikke kopier disse feltene"
+
+#: duplicate-post-options.php:512
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "Velg taksonomi som du ikke ønsker å kopiere"
+
+#: duplicate-post-options.php:441
+msgid "Title prefix"
+msgstr "Tittelprefiks"
+
+#: duplicate-post-options.php:447
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Prefiks som legges til før opprinnelig tittel, f.eks. \"Kopi av\" (tom for ingen prefiks)"
+
+#: duplicate-post-options.php:454
+msgid "Title suffix"
+msgstr "Tittelsuffiks"
+
+#: duplicate-post-options.php:460
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Suffiks som legges til opprinnelig tittel, f.eks. \"(kopi)\" (tom for ingen suffiks)"
+
+#: duplicate-post-options.php:527
+msgid "Roles allowed to copy"
+msgstr "Roller som kan kopiere"
+
+#: duplicate-post-options.php:575
+msgid "Show links in"
+msgstr "Vis lenker i"
+
+#: duplicate-post-options.php:579
+msgid "Post list"
+msgstr "Innleggsliste"
+
+#: duplicate-post-options.php:581
+msgid "Edit screen"
+msgstr "Redigeringsskjerm"
+
+#: duplicate-post-options.php:583
+msgid "Admin bar"
+msgstr "Adminbar"
+
+#. Description of the plugin
+msgid "Clone posts and pages."
+msgstr "Klone innlegg og sider."
+
+#. Author of the plugin
+msgid "Enrico Battocchi"
+msgstr "Enrico Battocchi"
+
+#: duplicate-post-options.php:544
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "Advarsel: Brukere vil få adgang til å kopiere alle innlegg, også de tilhørende andre brukere"
+
+#: duplicate-post-admin.php:379
+msgid "New Draft"
+msgstr "Ny kladd"
+
+#: duplicate-post-admin.php:426
+msgid "No post to duplicate has been supplied!"
+msgstr "Intet innlegg for kopiering har blitt oppgitt!"
+
+#: duplicate-post-admin.php:797
+msgid "Donate"
+msgstr "Donér"
+
+#: duplicate-post-options.php:49 duplicate-post-options.php:79
+msgid "Duplicate Post Options"
+msgstr "Alternativer for dupliserte innlegg"
+
+#. Plugin Name of the plugin
+#: duplicate-post-options.php:49
+msgid "Duplicate Post"
+msgstr "Dupliser innlegg"
+
+#: duplicate-post-options.php:493
+msgid "Do not copy these taxonomies"
+msgstr "Ikke kopier følgende taksonomier"
+
+#: duplicate-post-options.php:487
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "Kommaseparert liste over meta-felt som ikke må kopieres"
+
+#. Author URI of the plugin
+msgid "https://lopo.it"
+msgstr "https://lopo.it"
